@@ -9,6 +9,7 @@ sudo cd /boot/.pppwn
 sudo chmod 777 *
 sudo bash install.sh
 sudo history -c && history -w
-echo -e '\033[36mUpdate Komplit Bos,\033[33m Rebooting\033[0m'
-sudo reboot 
+sudo ls -A /boot/
+echo -e '\033[36mTolong foto,\033[33m Wa ke orangnya \033[0m'
+
 
